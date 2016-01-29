@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="К концу седьмого месяца жизни ребенок начинает ползать подолгу и в разных направлениях. Ребенок все увереннее поворачивается с одного бока на другой. Некоторые дети могут уже хорошо передвигаться на четвереньках. Большинство детей уже хорошо сидят, хотя некоторые еще &quot;шатаются&quot;, &quot;качаются&quot; или падают. Руки ребенка становятся все более умелыми, он учится переходить от одного-двух действий с игрушками к манипулятивной игре, состоящей из цепи простых, взаимосвязанных действий ознакомительного характера, например перекладывания из руки в руку, постукивание, отбрасывания, притягивания.">
+    </TextView>
+</LinearLayout>
