@@ -1,0 +1,20 @@
+<resources>
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">SimpleListChoice</string>
+    <string-array name="names">
+        <item>Бегать</item>
+        <item>Кушать самостоятельно</item>
+        <item>Прыгать</item>
+        <item>Поднимать головку</item>
+        <item>Смеяться</item>
+        <item>Плавать</item>
+        <item>Нырять</item>
+        <item>Разговаривать</item>
+        <item>Переворачиваться</item>
+        <item>Работать</item>
+        <item>Спать</item>
+        <item>Свистеть</item>
+        <item>Управлять автомобилем</item>
+    </string-array>
+</resources>
+

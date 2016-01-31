@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tvCaption"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Что умеет малыш?"
+        android:textSize="25dp"
+        android:textColor="#000080"></TextView>
+
+    <Button
+        android:id="@+id/btnChecked"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Готово"></Button>
+
+    <ListView
+        android:id="@+id/lvMain"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"></ListView>
+</LinearLayout>
